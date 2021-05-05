@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kevin Astudillo</title>
+    <link>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/</link>
+    <description>Recent content in Projects on Kevin Astudillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York State Grades 3-8 ELA and Math Proficiency Data</title>
+      <link>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 05 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-3/</guid>
+      <description>The New York State has release the 2019 state test data. I am going to take a look at the data and create a dashboard presenting the initial findings using Tableau. Tableau allows you to visualize very large datasets in multiple formats such as Microsoft Excel.
+Tableau Story   I created a Tableau Story where you are received by a welcome message and a clickable menu located at the top.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Covid-19</title>
+      <link>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 22 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-2/</guid>
+      <description>It has been over a year since the first COVID-19 case was reported. I have created data visualizations of COVID-19 confirmed cases and confirmed deaths in the United States. More importantly, I created data visualizations to compare the vaccination progress between different countries among the world.
+COVID-19 Confirmed Cases in the U.S.   COVID-19 Deaths in the U.S.   How many COVID-19 vaccines have been administered? The following graph shows how many COVID-19 vaccines have been administered in total.</description>
+    </item>
+    
+    <item>
+      <title>New York City&#39;s Investing on Education</title>
+      <link>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kcastudillo.github.io/Astudillo_Kevin_Portfolio/post/project-1/</guid>
+      <description>The Budget We often wonder what is going on with New York City&amp;rsquo;s Department of Education and their budget. I took a look at their data and this dataset contains information on how much money the DOE received each year since 1990. The budget for the Department of Education has been increasing throughout the years. The DOE budget recently passed over 23 billion dollars per year. All dollar amounts are in 2017 dollars.</description>
+    </item>
+    
+  </channel>
+</rss>
